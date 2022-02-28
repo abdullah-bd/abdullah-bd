@@ -4,7 +4,7 @@
 
 I would like to establish myself as a highly motivated & enthusiastic person to run a responsible position where I could use my technical  and interpersonal skills, creativity and all of my learning experiences. I used java as my main programming language. I have some hands-on experience using Linux. I also have a good problem-solving ability using java as well as other known programming languages.
 
-Skills: Android, Hilt, Dagger, MVP, MVVM, RXJava, RXKotlin, Firebase, SQLite, REST API, JSON, RSS, Unity (Game  Engine), Linux, Java, Kotlin, MapReduce, HTML, CSS, PHP, Bootstrap, MySQL, Workbench. 
+Skills: ✅Android✅Hilt✅Dagger✅MVP✅MVVM✅RXJava✅RXKotlin✅Firebase✅SQLite✅REST API✅JSON✅RSS✅Unity (Game  Engine)✅Linux✅Java✅Kotlin✅MapReduce✅HTML✅CSS✅PHP✅Bootstrap✅MySQL✅Workbench. 
 
 - 🔭 I’m currently working on Android 
 - 🌱 I’m currently learning Flutter 
