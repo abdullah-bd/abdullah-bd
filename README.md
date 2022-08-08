@@ -5,8 +5,8 @@ I would like to establish myself as a highly motivated & enthusiastic person to 
 
 Skills: ✅Android  ✅Hilt ✅Dagger ✅MVP  ✅MVVM ✅RXJava ✅RXKotlin ✅Firebase ✅SQLite ✅REST API ✅JSON ✅RSS  ✅Unity (Game  Engine) ✅Linux  ✅Java ✅Kotlin ✅MapReduce  ✅HTML ✅CSS  ✅PHP  ✅Bootstrap  ✅MySQL  ✅Workbench 
   
-- 🔭 I’m currently working on Android 
-- 🌱 I’m currently learning Flutter 
+- 🔭 I’m currently working on native Android and Flutter. 
+- 🌱 I’m currently learning advanced Flutter 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullah-bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/spark.abdullah)  
