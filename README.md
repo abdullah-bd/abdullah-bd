@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+<div align="center"> <img src="https://raw.githubusercontent.com/abdullah-bd/abdullah-bd/main/github-header-image.png"> </div>
 
 ### Hi there 👋, I am Abdullah :) 
 ### Hi there 👋, I am Abdullah :) 
