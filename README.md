@@ -14,6 +14,7 @@ Skills: ✅Android  ✅Hilt ✅Dagger ✅MVP  ✅MVVM ✅RXJava ✅RXKotlin ✅F
 
   
 - 🔭 I’m currently working on native Android and Flutter. 
+
 - 🌱 I’m currently learning advanced Flutter.
 
 
