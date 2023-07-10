@@ -22,9 +22,9 @@ Skills: ✅Android  ✅Hilt ✅Dagger ✅MVP  ✅MVVM ✅RXJava ✅RXKotlin ✅F
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=abdullah-bd&theme=onedark)](https://www.facebook.com/spark.abdullah)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-bd)](https://www.facebook.com/spark.abdullah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-bd&theme=onedark)](https://www.facebook.com/spark.abdullah)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah-bd&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah-bd&show_icons=true&count_private=true&theme=onedark)  
 
 [![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-bd&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
