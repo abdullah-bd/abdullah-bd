@@ -32,4 +32,4 @@ Skills: ✅Android  ✅Hilt ✅Dagger ✅MVP  ✅MVVM ✅RXJava ✅RXKotlin ✅F
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-bd)  
 
-![](https://hit.yhype.me/github/profile?user_id=abdullah-bd)
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
