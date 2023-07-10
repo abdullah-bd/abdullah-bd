@@ -26,7 +26,7 @@ Skills: ✅Android  ✅Hilt ✅Dagger ✅MVP  ✅MVVM ✅RXJava ✅RXKotlin ✅F
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah-bd&show_icons=true&count_private=true&theme=onedark)  
 
-[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-bd&theme=onedark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah-bd&theme=github)](https://www.facebook.com/spark.abdullah)
 
 ![GitHub metrics](https://metrics.lecoq.io/abdullah-bd)  
 
