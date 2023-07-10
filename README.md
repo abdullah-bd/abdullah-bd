@@ -30,6 +30,6 @@ Skills: ✅Android  ✅Hilt ✅Dagger ✅MVP  ✅MVVM ✅RXJava ✅RXKotlin ✅F
 
 ![GitHub metrics](https://metrics.lecoq.io/abdullah-bd)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-bd)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abdullah-bd&theme=onedark)  
 
 ![](https://komarev.com/ghpvc/?username=abdullah-bd)
