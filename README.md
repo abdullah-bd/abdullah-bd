@@ -14,7 +14,7 @@ Skills: ✅Android  ✅Hilt ✅Dagger ✅MVP  ✅MVVM ✅RXJava ✅RXKotlin ✅F
 
 - 🔭 I’m currently working on native Android and Flutter. 
 
-- 🌱 I’m currently learning advanced Flutter.
+- 🌱 I’m interested learning IOS Development.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdullah-bd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/spark.abdullah)  
